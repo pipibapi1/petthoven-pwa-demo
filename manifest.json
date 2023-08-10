@@ -1,0 +1,21 @@
+{
+    "name": "Progressive Web Application",
+    "short_name": "PWA",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons":[
+        {
+            "src": "images/petthoven192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/petthoven512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
